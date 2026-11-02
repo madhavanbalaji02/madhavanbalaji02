@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1519?style=flat&logo=linkedin&logoColor=d4b595)](https://www.linkedin.com/in/madhavanbalaji/)
 [![Medium](https://img.shields.io/badge/Medium-0b1519?style=flat&logo=medium&logoColor=d4b595)](https://medium.com/@madhavanbalaji02)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-0b1519?style=flat&logo=huggingface&logoColor=d4b595)](https://huggingface.co/madhavan02)
-[![Email](https://img.shields.io/badge/madbala@iu.edu-0b1519?style=flat&logo=gmail&logoColor=d4b595)](mailto:madbala@iu.edu)
+[![Email](https://img.shields.io/badge/madhavanbalaji02@gmail.com-0b1519?style=flat&logo=gmail&logoColor=d4b595)](mailto:madhavanbalaji02@gmail.com)
 
 </div>
 
